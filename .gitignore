@@ -1,0 +1,8 @@
+# Ignora todos los archivos de texto dentro del repo
+*.txt
+
+# Ignora el archivo background.jpg
+background.jpg
+
+#Ignora la carpeta y los contenidos de unaCarpeta
+unaCarpeta
